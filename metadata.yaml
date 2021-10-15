@@ -1,0 +1,25 @@
+_repo: The-Missing-Disclaimer_66431
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sackett, Sam
+    gutenberg_agent_id: '53807'
+    url: http://www.gutenberg.org/2009/agents/53807
+description: ''
+gutenberg_issued: '2021-09-30'
+identifiers:
+  gutenberg: '66431'
+language: en
+pgterms:marc905: 20210307071935sackett
+pgterms:marc906: '1954'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Greenleaf Publishing Company,1954.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Missing Disclaimer
+url: http://www.gutenberg.org/ebooks/66431
