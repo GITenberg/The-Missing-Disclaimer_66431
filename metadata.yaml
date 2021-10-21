@@ -1,11 +1,16 @@
 _repo: The-Missing-Disclaimer_66431
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66431-h/images/cover.jpg
 creator:
   author:
     agent_name: Sackett, Sam
     gutenberg_agent_id: '53807'
     url: http://www.gutenberg.org/2009/agents/53807
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66431#The-Missing-Disclaimer
 gutenberg_issued: '2021-09-30'
 identifiers:
   gutenberg: '66431'
